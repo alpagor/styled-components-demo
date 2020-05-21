@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+/* Dark mode */
+
+/* body {
+  background-color: black;
+  padding: 40px;
+}
+h1 {
+  color: palevioletred;
+}
+p {
+  color: white;
+} */
